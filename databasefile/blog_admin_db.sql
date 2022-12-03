@@ -23,6 +23,7 @@ SET time_zone = "+00:00";
 --
 
 -- --------------------------------------------------------
+//esz
 
 --
 -- Table structure for table `banner_posts`
